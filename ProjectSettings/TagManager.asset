@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Celestial
+  - Planet-1
+  - Planet1Way
+  - Border
+  - BlueOrb
+  - Terrain
+  - Spawner
+  - RedOrbSpawner
+  - RedOrb
+  - Moon
+  - Enemy
+  - Planet1Way2
+  - Asteroid
+  - Home
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - BlueOrb
+  - RedOrb
+  - Planet-1
+  - ExitPoint
+  - Planet-2
+  - Camera
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
